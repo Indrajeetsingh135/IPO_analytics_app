@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.dist/
+.build/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# Notebooks & caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+logs/
+tmp/
+temp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# If you keep secrets in .env
+.env
+.env.*
+
+# Optional: ignore local data files (uncomment if you don't want Excel in git)
+# *.xlsx
+# data/
