@@ -32,6 +32,5 @@ It works on one Excel file and lets you filter, look up symbols, compare compani
   - **Heatmap:** Year × Sector median current return
   - **Counts by category:** Security Type (and Series if present)
 
-## Data file
 
-Place
+
